@@ -1,0 +1,20 @@
+Wiskunde en AI
+Voor dat ik begon aan de minor zag ik ML systemen als iets magies waar je data in doen en dat het systeem uit het niks iets kan learen.
+
+Bij de relatie tussen wiskunde en ai begrijp ik het een en ander.
+
+Door middel van te differentiëren kun je back propagation toepassen(), 
+als je een image(matrix) heb en je wil deze bijvoorbeeld verruizen of blurren dan vermenigvuldig je de image met een andere matrix zodat er
+een nieuwe matrix(image) uit komt.
+
+Met Partieel differentiëren kan je het zelfde als normaal differentiëren alleen doe je het dan over 2
+varriabelen. Activatie functies zijn eigenlijk wiskundige formules (sigmoid, relu tanh). 
+
+Doormiddel van de Euclidische afstand kan je de
+afstand hemelsbreed tussen a en b berekenen en zo dus bepalen bij welke groep punt b hoort(KNN).
+Met een transpose matrix kan je de matrix van form veranderen maar nog wel de originele data behouden word.
+Veder word dit ook gebruikt om de de delta van de gewighten te berekenen voor gradient descent.
+
+Ook kan je data beter laten zie (statistiek) en inver matrix is gebruikt om de bijvoorbeeld de coefficient in linear regression te vinden.
+
+In het kort zonder wiskunden zo Machine Learning niet bestaan
